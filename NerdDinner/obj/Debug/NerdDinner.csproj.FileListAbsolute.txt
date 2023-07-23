@@ -1,0 +1,75 @@
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner\bin\NerdDinner.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner\bin\NerdDinner.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner\bin\DDay.iCal.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner\bin\DotNetOpenAuth.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner\bin\Elmah.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner\bin\OpenSearchToolkit.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner\bin\System.Web.Mvc.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner\bin\antlr.runtime.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner\bin\DotNetOpenAuth.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner\bin\Elmah.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner\bin\Elmah.xml
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner\bin\System.Web.Mvc.xml
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner\obj\Debug\NerdDinner.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner\obj\Debug\NerdDinner.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner\obj\Debug\NerdDinner.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner\bin\NerdDinner.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner\bin\NerdDinner.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner\bin\DDay.iCal.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner\bin\DotNetOpenAuth.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner\bin\Elmah.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner\bin\OpenSearchToolkit.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner\bin\antlr.runtime.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner\bin\DotNetOpenAuth.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner\bin\Elmah.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner\bin\Elmah.xml
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner\obj\Debug\NerdDinner.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner\obj\Debug\NerdDinner.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner\obj\Debug\NerdDinner.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner\bin\NerdDinner.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner\bin\NerdDinner.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner\bin\DDay.iCal.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner\bin\DotNetOpenAuth.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner\bin\Elmah.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner\bin\OpenSearchToolkit.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner\bin\antlr.runtime.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner\bin\DotNetOpenAuth.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner\bin\Elmah.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner\bin\Elmah.xml
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner\obj\Debug\NerdDinner.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner\obj\Debug\NerdDinner.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner\obj\Debug\NerdDinner.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner\bin\NerdDinner.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner\bin\NerdDinner.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner\bin\DDay.iCal.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner\bin\DotNetOpenAuth.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner\bin\Elmah.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner\bin\OpenSearchToolkit.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner\bin\antlr.runtime.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner\bin\DotNetOpenAuth.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner\bin\Elmah.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner\bin\Elmah.xml
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner\obj\Debug\NerdDinner.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner\obj\Debug\NerdDinner.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner\obj\Debug\NerdDinner.pdb
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\NerdDinner.dll.config
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\NerdDinner.dll
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\NerdDinner.pdb
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\DDay.iCal.dll
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\DotNetOpenAuth.dll
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\Elmah.dll
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\Microsoft.Web.Infrastructure.dll
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\OpenSearchToolkit.dll
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\System.Web.Helpers.dll
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\System.Web.Mvc.dll
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\System.Web.Razor.dll
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\System.Web.WebPages.Deployment.dll
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\System.Web.WebPages.dll
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\System.Web.WebPages.Razor.dll
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\antlr.runtime.dll
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\DotNetOpenAuth.pdb
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\Elmah.pdb
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\bin\Elmah.xml
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\obj\Debug\NerdDinner.csprojResolveAssemblyReference.cache
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\obj\Debug\NerdDinner.dll
+D:\Source Code\NerdDinner - Ant Profiler\NerdDinner\obj\Debug\NerdDinner.pdb

@@ -1,0 +1,94 @@
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll.config
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.pdb
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\DDay.iCal.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\Elmah.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\Moq.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\OpenSearchToolkit.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\antlr.runtime.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.pdb
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\Elmah.pdb
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\Elmah.xml
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.pdb
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.dll
+C:\Users\Jon\Desktop\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.pdb
+C:\Users\dene.boulton\Desktop\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll.config
+C:\Users\dene.boulton\Desktop\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll
+C:\Users\dene.boulton\Desktop\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.pdb
+C:\Users\dene.boulton\Desktop\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\Moq.dll
+C:\Users\dene.boulton\Desktop\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.dll
+C:\Users\dene.boulton\Desktop\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.dll
+C:\Users\dene.boulton\Desktop\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.pdb
+C:\Users\dene.boulton\Desktop\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.pdb
+C:\Users\dene.boulton\Desktop\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dene.boulton\Desktop\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.dll
+C:\Users\dene.boulton\Desktop\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.pdb
+D:\Dev\Demos\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll.config
+D:\Dev\Demos\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll
+D:\Dev\Demos\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.pdb
+D:\Dev\Demos\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\Moq.dll
+D:\Dev\Demos\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.dll
+D:\Dev\Demos\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.dll
+D:\Dev\Demos\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.pdb
+D:\Dev\Demos\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.pdb
+D:\Dev\Demos\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\Demos\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.dll
+D:\Dev\Demos\NerdDinner_2.0_JeremiahPeschkaChanges\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.pdb
+D:\Dev\Demos\NerdDinner_2.0_Demo_test\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll.config
+D:\Dev\Demos\NerdDinner_2.0_Demo_test\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll
+D:\Dev\Demos\NerdDinner_2.0_Demo_test\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.pdb
+D:\Dev\Demos\NerdDinner_2.0_Demo_test\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\Moq.dll
+D:\Dev\Demos\NerdDinner_2.0_Demo_test\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.dll
+D:\Dev\Demos\NerdDinner_2.0_Demo_test\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.dll
+D:\Dev\Demos\NerdDinner_2.0_Demo_test\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.pdb
+D:\Dev\Demos\NerdDinner_2.0_Demo_test\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.pdb
+D:\Dev\Demos\NerdDinner_2.0_Demo_test\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\Demos\NerdDinner_2.0_Demo_test\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.dll
+D:\Dev\Demos\NerdDinner_2.0_Demo_test\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll.config
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\Moq.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll.config
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\Moq.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\VS2012\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll.config
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\Moq.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\NerdDinner.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\For TradeShow VMs\NerdDinner_2.0\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll.config
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner.Tests\bin\Debug\NerdDinner.Tests.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner.Tests\bin\Debug\Moq.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner.Tests\bin\Debug\NerdDinner.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner.Tests\bin\Debug\NerdDinner.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner.Tests\bin\Debug\DotNetOpenAuth.pdb
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.dll
+D:\Documents\Visual Studio 2012\Projects\NerdDinner\Current\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.pdb

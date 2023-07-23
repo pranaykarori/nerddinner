@@ -1,0 +1,1 @@
+Before profiling, open the solution in Visual Studio 2012 and rebuild to ensure that debugging symbols point to the correct locations.
